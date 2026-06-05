@@ -1,0 +1,54 @@
+# Purpose: Ignore files that should not be committed
+# Docs: .gitignore.doc.md
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project data
+*.db
+*.sqlite3
+data/
+
+# Secrets
+.env
+*.key
+
+# Logs
+*.log
+logs/
