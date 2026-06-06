@@ -1,6 +1,6 @@
 """Tests for the SerpAPI client.
 
-Docs: tests/test_client.doc.md
+Docs: test_client.doc.md
 """
 
 import json

@@ -1,6 +1,6 @@
 """SIN-Websearch — MCP Websearch Skill.
 
-Docs: src/sin_websearch/__init__.doc.md
+Docs: __init__.doc.md
 """
 
 from .cache import SearchCache

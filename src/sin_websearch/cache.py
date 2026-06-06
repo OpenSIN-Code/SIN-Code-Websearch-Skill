@@ -1,6 +1,6 @@
 """SQLite-based cache for websearch results.
 
-Docs: src/sin_websearch/cache.doc.md
+Docs: cache.doc.md
 """
 
 import json

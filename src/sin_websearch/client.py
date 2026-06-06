@@ -1,6 +1,6 @@
 """SerpAPI client with multi-key pool, caching, and history tracking.
 
-Docs: src/sin_websearch/client.doc.md
+Docs: client.doc.md
 """
 
 import json

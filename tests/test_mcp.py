@@ -1,6 +1,6 @@
 """Tests for the FastMCP server.
 
-Docs: tests/test_mcp.doc.md
+Docs: test_mcp.doc.md
 """
 
 import asyncio

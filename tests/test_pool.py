@@ -1,6 +1,6 @@
 """Tests for the SerpAPI key pool.
 
-Docs: tests/test_pool.doc.md
+Docs: test_pool.doc.md
 """
 
 import time

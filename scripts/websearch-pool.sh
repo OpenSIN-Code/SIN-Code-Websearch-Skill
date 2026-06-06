@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: CLI pool management (reset, reload, manual add)
-# Docs: scripts/websearch-pool.doc.md
+# Docs: websearch-pool.doc.md
 
 set -euo pipefail
 

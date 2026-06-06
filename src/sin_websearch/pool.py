@@ -1,6 +1,6 @@
 """SerpAPI key pool manager with round-robin, 429 fallback, and cooldown.
 
-Docs: src/sin_websearch/pool.doc.md
+Docs: pool.doc.md
 """
 
 import os

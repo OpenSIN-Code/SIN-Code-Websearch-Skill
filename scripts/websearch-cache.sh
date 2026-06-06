@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: CLI cache management
-# Docs: scripts/websearch-cache.doc.md
+# Docs: websearch-cache.doc.md
 
 set -euo pipefail
 

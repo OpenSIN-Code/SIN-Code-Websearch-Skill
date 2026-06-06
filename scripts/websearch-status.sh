@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: CLI wrapper for pool status
-# Docs: scripts/websearch-status.doc.md
+# Docs: websearch-status.doc.md
 
 set -euo pipefail
 

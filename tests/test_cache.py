@@ -1,6 +1,6 @@
 """Tests for the SQLite search cache.
 
-Docs: tests/test_cache.doc.md
+Docs: test_cache.doc.md
 """
 
 import os

@@ -1,6 +1,6 @@
 """Search history tracking with SQLite persistence.
 
-Docs: src/sin_websearch/history.doc.md
+Docs: history.doc.md
 """
 
 import json

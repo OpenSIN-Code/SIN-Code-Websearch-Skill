@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: CLI wrapper for web search via sin-websearch
-# Docs: scripts/websearch-search.doc.md
+# Docs: websearch-search.doc.md
 
 set -euo pipefail
 

@@ -1,6 +1,6 @@
 """Tests for the SQLite search history.
 
-Docs: tests/test_history.doc.md
+Docs: test_history.doc.md
 """
 
 import os

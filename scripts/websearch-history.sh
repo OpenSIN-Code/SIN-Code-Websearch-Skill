@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: CLI history wrapper
-# Docs: scripts/websearch-history.doc.md
+# Docs: websearch-history.doc.md
 
 set -euo pipefail
 
