@@ -8,7 +8,7 @@ re-exports them and keeps the `python mcp_server.py` / `sin-websearch-server`
 entry points working.
 """
 
-from sin_websearch.mcp_server import main, mcp  # noqa: F401
+from sin_websearch.mcp_server import _get_client, main, mcp  # noqa: F401
 
 if __name__ == "__main__":
     main()
